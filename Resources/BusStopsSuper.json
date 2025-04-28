@@ -1,0 +1,14 @@
+[
+    {
+        "id": "stop_1",
+        "name": "Central Station",
+        "latitude": 53.4084,
+        "longitude": -2.9916
+    },
+    {
+        "id": "stop_2",
+        "name": "Liverpool One",
+        "latitude": 53.4035,
+        "longitude": -2.9845
+    }
+]
